@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     button.appendChild(circle);
   }
 
-  testButton.addEventListener("mousedown", createRipple);
+ // testButton.addEventListener("mousedown", createRipple);
   clearButton.addEventListener("mousedown", createRipple);
 
   // Receive initial history
